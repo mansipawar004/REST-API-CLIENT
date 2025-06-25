@@ -27,3 +27,4 @@ Outputs the extracted data (e.g., weather condition, temperature) in a readable 
 OUTPUT :
 ![Image](https://github.com/user-attachments/assets/130981ff-a7cc-416b-b41a-61aa1b5922c5)
 
+
